@@ -1,9 +1,9 @@
 package personnes;
 
-public class Personne {
+class Personne {
 	//propriétés
-		private String nom;
-		private int age;
+		 String nom;
+		 int age;
 		
 	//constructeurs vite et initialisé
 		public Personne(){
