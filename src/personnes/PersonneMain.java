@@ -5,7 +5,7 @@ public class PersonneMain {
 	public static void main(String[] args) {
 		//instancier la classe
 		Personne P1 = new Personne();
-		Personne P2 = new Personne("Coupdetrix",25);
+		Personne P2 = new Personne("Coupdetrix",25, [25.50,54.00]);
 		
 		
 		
